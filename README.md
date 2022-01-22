@@ -3,6 +3,7 @@
 ## Overview of Project
 This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
 <br>
+<br>
 Deliverable 1: Change Trip Duration to a Datetime Format<br>
 Deliverable 2: Create Visualizations for the Trip Analysis<br>
 Deliverable 3: Create a Story and Report for the Final Presentation<br>
