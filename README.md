@@ -19,11 +19,19 @@ For this analysis, you’ll use Pandas to change the "tripduration" column from 
 Finally, you’ll add these new visualizations to the two you created in this module for your final presentation and analysis to pitch to investors.
 
 ## Results
+
+There are at least seven visualizations for the NYC Citibike analysis (7 pt)<br>
+There is a description of the results for each visualization (7 pt)
+
 - Deliverable 1: Change Trip Duration to a Datetime Format
 
 - Deliverable 2: Create Visualizations for the Trip Analysis
 
 - Deliverable 3: Create a Story and Report for the Final Presentation
+
+## Link to Tableau Public Dashboard<br>
+[link to dashboard](LINK GOES HERE)<br>
+[link to dashboard](LINK GOES HERE "link to dashboard")
 
 
  
