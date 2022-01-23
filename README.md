@@ -1,4 +1,5 @@
 # Module_14
+NYC CitiBike Challenge
 
 ## Overview of Project
 This new assignment consists of two technical analysis deliverables and a written report to present your results. You will submit the following:
@@ -21,18 +22,33 @@ Finally, you’ll add these new visualizations to the two you created in this mo
 
 ## Results
 
-There are at least seven visualizations for the NYC Citibike analysis (7 pt)<br>
-There is a description of the results for each visualization (7 pt)
-
 - Deliverable 1: Change Trip Duration to a Datetime Format
+![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_1/1%20%20Jupyter%20Notebook.png)
 
 - Deliverable 2: Create Visualizations for the Trip Analysis
+     
+     ## The overwhelming majority of the Citibike Users were Men, more than doubling female and unkown users combined. 
 
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Gender%20Breakdown.png)
+   
+  
+     ## In the 2 graph below we can see that the most users checkeout times max out at about the 5 minute mark. 
+     We can appreciate in the second graph that the 5 minute mark held as the max ride across genders.
+
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Checkout%20Times%20for%20Users.png)
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Checkout%20Times%20by%20Gender.png)
+   
+    ## Here we can appreciate that during the weekdays Monday through Friday, the hours often referred to as "rush hour"(7-9am and 5-8PM) found the most trips recorded with Thursday 5-7 pm showing the most amount of trips taken. 
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Trips%20by%20Weekday%20for%20hour.png)
+  ## When taking a closer look and comparing trips by gender we can see that although men take more trips than female riders, both favour similar riding hours.
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Trips%20by%20Gender%20(weekday%20per%20hour).png)
+  ## Male Subsribers are the most active of all rider types.
+   ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/User%20Trips%20by%20Gender%20by%20Weekday.png)
 - Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## Link to Tableau Public Dashboard<br>
-[link to dashboard](LINK GOES HERE)<br>
-[link to dashboard](LINK GOES HERE "link to dashboard")
+[link to dashboard](https://public.tableau.com/app/profile/francis.marquez1843/viz/NYCCitiBikeChallenge_16429116404190/CheckoutTimesforUsers)<br>
+
 
 
  
