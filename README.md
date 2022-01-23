@@ -44,11 +44,14 @@ Finally, you’ll add these new visualizations to the two you created in this mo
    ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/Trips%20by%20Gender%20(weekday%20per%20hour).png)
   ## Male Subsribers are the most active of all rider types.
    ![Alt text](https://github.com/f-marquez/Module_14/blob/main/Images/Deliverable_2/User%20Trips%20by%20Gender%20by%20Weekday.png)
-- Deliverable 3: Create a Story and Report for the Final Presentation
 
 ## Link to Tableau Public Dashboard<br>
+- Deliverable 3: Create a Story for the Final Presentation
+
 [link to dashboard](https://public.tableau.com/app/profile/francis.marquez1843/viz/NYCCitiBikeChallenge_16429116404190/CheckoutTimesforUsers)<br>
 
+**Citibike programs offer a simple transportation alternative for getting around. We are able to see that most riders were renting bikes for short rides regardless of gender. We also noted that riders preferred similar riding time regardless of gender or subscription status.**<br>
 
+**Male users are the overhelming user base for citibike as well as the majority of thier subscriber base. It could be wise to explore the reasons why the large gap between users based on gender and explore potentials ways to encourage more female subscribers.**
 
  
